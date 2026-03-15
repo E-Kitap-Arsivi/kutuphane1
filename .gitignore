@@ -1,0 +1,10 @@
+# Pipeline dosyaları — repoya gönderilmez
+pipeline.py
+requirements.txt
+progress.json
+Kütüphaneler_01-55.xlsx
+
+# Python önbelleği
+__pycache__/
+*.pyc
+*.pyo
